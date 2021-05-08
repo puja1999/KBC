@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/KBC/static/css/main.fb1e7741.chunk.css",
+    "main.js": "/KBC/static/js/main.7650d116.chunk.js",
+    "main.js.map": "/KBC/static/js/main.7650d116.chunk.js.map",
+    "runtime-main.js": "/KBC/static/js/runtime-main.f60f13d5.js",
+    "runtime-main.js.map": "/KBC/static/js/runtime-main.f60f13d5.js.map",
+    "static/js/2.12604f83.chunk.js": "/KBC/static/js/2.12604f83.chunk.js",
+    "static/js/2.12604f83.chunk.js.map": "/KBC/static/js/2.12604f83.chunk.js.map",
+    "static/js/3.0b675be1.chunk.js": "/KBC/static/js/3.0b675be1.chunk.js",
+    "static/js/3.0b675be1.chunk.js.map": "/KBC/static/js/3.0b675be1.chunk.js.map",
+    "index.html": "/KBC/index.html",
+    "static/css/main.fb1e7741.chunk.css.map": "/KBC/static/css/main.fb1e7741.chunk.css.map",
+    "static/js/2.12604f83.chunk.js.LICENSE.txt": "/KBC/static/js/2.12604f83.chunk.js.LICENSE.txt",
+    "static/js/3.0b675be1.chunk.js.LICENSE.txt": "/KBC/static/js/3.0b675be1.chunk.js.LICENSE.txt",
+    "static/media/correct.160572d7.mp3": "/KBC/static/media/correct.160572d7.mp3",
+    "static/media/play.8e5f6d1d.mp3": "/KBC/static/media/play.8e5f6d1d.mp3",
+    "static/media/wrong.e9468218.mp3": "/KBC/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f60f13d5.js",
+    "static/js/2.12604f83.chunk.js",
+    "static/css/main.fb1e7741.chunk.css",
+    "static/js/main.7650d116.chunk.js"
+  ]
+}
